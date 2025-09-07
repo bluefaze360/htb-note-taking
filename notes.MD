@@ -50,9 +50,8 @@ Another option is to ***use a VPN to connect to a server** - in this case, a ser
 
 They are:
 
-- Client-based VPN: w4tgvhbj ,
-- SSL VPN: 
-
+- Client-based VPN: requires the use of client software to establish the connection.
+- SSL VPN: Uses the web browser as the client.
 
 ---
 
