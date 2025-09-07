@@ -39,7 +39,7 @@ I want to watch a fight scene from Naruto Shippuden on YouTube, but I need to "b
 One option is to **go to Japan.** But let's be real. I would need many extra things - passport, check-in luggage, etc. - and I only need to stream a video! It's just crazy to spend thousands on a trip to Japan, and the sole purpose is to stream a video. 🤦🏽‍♂️
 Another option is to ***use a VPN to connect to a server** - in this case, a server in Japan - to stream the video. It's so much simpler to do that than to spend thousands of dollars and waste time!
 
-![alt text](vpnmap.png)
+![alt text](Images/vpnmap.png)
 
 **How does it work?** 
 
